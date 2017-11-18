@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Показано экранов: %d.</item>
+        <item quantity="one">Показан 1 экран.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
+        <item quantity="one">Неверный PIN-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Неверный PUK-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована навсегда.</item>
+        <item quantity="one">Неверный PUK-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована навсегда.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">Устройство не было разблокировано в течение %d часов. Подтвердить графический ключ.</item>
+        <item quantity="one">Устройство не было разблокировано в течение %d часа. Подтвердить графический ключ.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">Устройство не было разблокировано в течение %d часов. Подтвердить PIN-код.</item>
+        <item quantity="one">Устройство не было разблокировано в течение %d часа. Подтвердить PIN-код.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">Устройство не было разблокировано в течение %d часов. Подтвердить пароль.</item>
+        <item quantity="one">Устройство не было разблокировано в течение %d часа. Подтвердить пароль.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Введите PIN-код. Осталось попыток: %d.</item>
+        <item quantity="one">Введите PIN-код SIM-карты, у вас осталось %d попыток, прежде чем вам понадобится обратиться к своему оператору для разблокировки устройство.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM-карта отключена. Введите PUK-код, чтобы продолжить. У вас осталось %d попыток, прежде чем SIM-карта станет навсегда непригодной. Обратитесь к оператору за подробностями.</item>
+        <item quantity="one">SIM-карта отключена. Введите PUK-код, чтобы продолжить. У вас осталась %d попытка, прежде чем SIM-карта станет навсегда непригодной. Обратитесь к оператору за подробностями.</item>
+    </plurals>
+</resources>
