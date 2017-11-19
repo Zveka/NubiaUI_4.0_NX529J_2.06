@@ -85,6 +85,8 @@
     <string name="picker_vibrate_mode">вибрирует</string>
     <string name="wait_loading">Загрузка данных…</string>
     <string name="music_file_unexist">Файл не существует.</string>
+    <string name="video_audio">Звук видео</string>
+    <string name="video_original_audio">Исходный звук видео</string>
     <string name="deny_title">Доступ запрещен</string>
     <string name="deny_message">Вы отказали в разрешениях, запрашиваемых Настройки рингтона, пожалуйста, предоставите разрешения в настройках</string>
     <string name="deny_btn_enable">Активировать</string>
