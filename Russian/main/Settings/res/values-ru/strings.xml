@@ -3870,6 +3870,8 @@
     <string name="encryption_lock_choose_tips_detail">Вам нужно установить пароль блокировки, чтобы включить шифрование, каждый раз при перезагрузке устройства необходимо вводить пароль блокировки.</string>
     <string name="disable_encryption_confirm_message">Некоторые сервисы Google могут работать не должным образом, если отключить шифрование.</string>
     <string name="self_start_manage">Управление автозапуском</string>
+    <string name="install_in_store">Не установлен %s, пожалуйста, установите</string>
+    <string name="nb_lockpassword_no_password">нет пароля</string>
     <string name="font_size_small">Мелкий</string>
     <string name="font_size_big">Крупный</string>
     <string name="font_size_normal">Обычный</string>
@@ -4118,11 +4120,6 @@
     <string name="custom_data">"Данные: "</string>
     <string name="security_settings_pre_fingerprint_enroll_find_sensor_message">Найдите сканер отпечатков пальцев на передняя поверхности телефона.</string>
     <string name="common_success_sub_title">Сохранение отпечатков пальцев завершено, вы можете разблокировать телефон с помощью отпечатков пальцев</string>
-    <string name="bluetooth_pairing_request_receive">Вы хотите получить запрос на сопряжение от %1$s?</string>
-    <string name="bluetooth_pairing_request_Waiting">Ожидание получения запроса на сопряжение %1$s.</string>
-    <string name="mtp_option_summary">Передать файлы на ПК</string>
-    <string name="ptp_option_summary">Передать фотографии на ПК</string>
-    <string name="default_option_summary">Установить драйвер для ПК</string>
     <string name="mobile_wakeup_pay_title">Отсроченная оплата</string>
     <string name="choose_no_fingerprint">Отключить</string>
     <string name="mobile_wakeup_pay_open">Оплата при выключенном экране активирована</string>
@@ -4151,10 +4148,6 @@
     <string name="notice_open_mobile_unlock">Пожалуйста, сначала включите разблокировку телефона</string>
     <string name="auto_grab_packet_with_fingerprint_tile">Захват пакета с отпечатком пальца</string>
     <string name="auto_grab_packet_with_fingerprint_summary">Автоматический захват пакета с отпечатком пальца, когда экран включен</string>
-    <string name="stop_bluetooth_search_for_devices">Стоп</string>
-    <string name="acl_enhance_mode">Режим повышенной яркости</string>
-    <string name="install_in_store">Не установлен %s, пожалуйста, установите</string>
-    <string name="nb_lockpassword_no_password">нет пароля</string>
     <string name="screen_timeout_oled_30_min">30 мин</string>
     <string name="nfc_title">Начать ближнюю бесконтактную связь</string>
     <string name="nfc_reader_switch_title">Активировать режим кардридера</string>
@@ -4164,5 +4157,14 @@
     <string name="nfc_reader_notifi_summary">Автоматическое отключение</string>
     <string name="nfc_reader_top_text">Поместите карту на лицевую сторону экрана</string>
     <string name="nfc_reader_banner_summary">Режим кардридера NFC отключен</string>
-    <string name="max_battary">Максимальное энергосбережением</string>
+    <string name="bluetooth_pairing_request_receive">Вы хотите получить запрос на сопряжение от %1$s?</string>
+    <string name="bluetooth_pairing_request_Waiting">Ожидание получения запроса на сопряжение %1$s.</string>
+    <string name="mtp_option_summary">Передать файлы на ПК</string>
+    <string name="ptp_option_summary">Передать фотографии на ПК</string>
+    <string name="default_option_summary">Установить драйвер для ПК</string>
+    <string name="stop_bluetooth_search_for_devices">Стоп</string>
+    <string name="acl_enhance_mode">Режим повышенной яркости</string>
+    <string name="max_battary">Максимальное энергосбережение</string>
+    <string name="power_save_title">Управление энергосбережением</string>
+    <string name="power_save_summary">Система автоматически очистит фоновые приложения в зависимости от использования приложения</string>
 </resources>
